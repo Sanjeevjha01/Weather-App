@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url("../Assets/Images/BodyBackground.jpg");
+  background-image: url("BodyBackground.jpg");
   background-attachment: fixed;
   background-size: 100% 750px;
   background-color: #222;
